@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="hd-mobile"  width="296" height="304" viewBox="0 0 296 304">
+  <g id="hd-mobile" transform="translate(-79 -515)">
+    <rect id="Rectangle_13" data-name="Rectangle 13" width="74" height="76" rx="10" transform="translate(301 591)" fill="#fff"/>
+    <rect id="Rectangle_43" data-name="Rectangle 43" width="74" height="76" rx="10" transform="translate(227 515)" fill="#45687f"/>
+    <rect id="Rectangle_45" data-name="Rectangle 45" width="74" height="76" rx="10" transform="translate(153 591)" fill="#fff"/>
+    <rect id="Rectangle_48" data-name="Rectangle 48" width="74" height="76" rx="10" transform="translate(153 743)" fill="#45687f"/>
+    <rect id="Rectangle_46" data-name="Rectangle 46" width="74" height="76" rx="10" transform="translate(79 667)" fill="#103e5b"/>
+    <rect id="Rectangle_47" data-name="Rectangle 47" width="74" height="76" rx="10" transform="translate(227 667)" fill="#103e5b"/>
+    <ellipse id="Ellipse_9" data-name="Ellipse 9" cx="37" cy="38" rx="37" ry="38" transform="translate(227 591)" fill="#14c9ae"/>
+    <ellipse id="Ellipse_10" data-name="Ellipse 10" cx="37" cy="38" rx="37" ry="38" transform="translate(153 667)" fill="#eb9c74"/>
+  </g>
+</svg>
